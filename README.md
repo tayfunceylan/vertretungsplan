@@ -1,4 +1,4 @@
-#Vertretungsplan
+# Vertretungsplan
 <img src="pictures/logo.jpg" alt="logo" width="100">
 
 ## Einleitung
@@ -9,7 +9,7 @@ Informationen, wie zum Beispiel "Fach X hat Raumverlegung in Raum Y", enthalten 
 
 ## Statistiken
 
-###Nutzerentwicklung
+### Nutzerentwicklung
 
 Dieses Tool, ursprünglich für den eigenen Gebrauch, hat sich schnell
 in der Schule rumgesprochen. Das führte dazu, dass es gegen Ende meiner Schulzeit
@@ -19,7 +19,7 @@ Ende November sind jeweils durch eine Nachricht in einen Klassenchat entstanden.
 <img src="pictures/entwicklung_april_07.png" alt="Entwickling der Nutzeranzahl">
 Stand: 07.04.2019
 
-###Klassenverteilung
+### Klassenverteilung
 Der Verteilung der Stufen sieht folgendermaßen aus. In der Q2 sind natürlich die
 Benutzer, da ich selbst aus der Q2 bin. Interessant ist, dass es auch vereinzelnt
 Nutzer in der Unterstufe gibt. Muss durch Mundpropaganda passiert sein.
