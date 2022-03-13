@@ -1,5 +1,5 @@
 # Vertretungsplan
-<img src="pictures/logo.jpg" alt="logo" width="100">
+<img src="pictures/logo.jpg" alt="logo" width="150">
 
 ## Einleitung
 Viele Programmierprojekte sind aus Frust entstanden, so auch dieses Projekt.
