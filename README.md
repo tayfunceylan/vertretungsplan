@@ -3,9 +3,9 @@
 
 ## Einleitung
 Viele Programmierprojekte sind aus Frust entstanden, so auch dieses Projekt.
-Ich wollte eine Benachrichtigung bekommen, sobald sich etwas auf unserem
-Vertretungplan ändert. In der Benachrichtigung sollen direkt auch alle relevanten
-Informationen, wie zum Beispiel "Fach X hat Raumverlegung in Raum Y", enthalten sein.
+Sobald sich etwas auf unserem Vertretungplan ändert, wollte ich eine 
+Benachrichtigung bekommen. Alle relevanten Informationen, wie zum Beispiel "Fach X 
+hat Raumverlegung in Raum Y", sollen in den Benachrichtigungen enthalten sein.
 
 ## Einrichtung
 Das Einrichten des Bots verlangt kein zusätliches Wissen. Es ist simpel gestaltet.
