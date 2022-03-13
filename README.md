@@ -10,6 +10,7 @@ Informationen, wie zum Beispiel "Fach X hat Raumverlegung in Raum Y", enthalten 
 ## Statistiken
 
 ###Nutzerentwicklung
+
 Dieses Tool, ursprünglich für den eigenen Gebrauch, hat sich schnell
 in der Schule rumgesprochen. Das führte dazu, dass es gegen Ende meiner Schulzeit
 ungefähr 150 Nutzer dieses Projekts gab. Die schnellen Anstiege Mitte September und
