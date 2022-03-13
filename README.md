@@ -47,13 +47,17 @@ in der Schule rumgesprochen. Das führte dazu, dass es gegen Ende meiner Schulze
 ungefähr 150 Nutzer dieses Projekts gab. Die schnellen Anstiege Mitte September und
 Ende November sind jeweils durch eine Nachricht in einen Klassenchat entstanden.
 
-<img src="pictures/entwicklung_april_07.png" alt="Entwickling der Nutzeranzahl">
-Stand: 07.04.2019
+<p>
+    <img src="pictures/entwicklung_april_07.png" alt="Entwickling der Nutzeranzahl">
+    <em>Stand: 07.04.2019</em>
+</p>
 
 ### Klassenverteilung
 Der Verteilung der Stufen sieht folgendermaßen aus. In der Q2 sind natürlich die
 Benutzer, da ich selbst aus der Q2 bin. Interessant ist, dass es auch vereinzelnt
 Nutzer in der Unterstufe gibt. Muss durch Mundpropaganda passiert sein.
 
-<img src="pictures/stufenverteilung.png" alt="Verteilung der Stufen">
-Stand: 13.02.2019
+<p>
+    <img src="pictures/stufenverteilung.png" alt="Verteilung der Stufen">
+    <em>Stand: 13.02.2019</em>
+</p>
