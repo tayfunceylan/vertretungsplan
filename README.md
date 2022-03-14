@@ -53,7 +53,7 @@ Ende November sind jeweils durch eine Nachricht in einen Klassenchat entstanden.
 </p>
 
 ### Klassenverteilung
-Der Verteilung der Stufen sieht folgendermaßen aus. In der Q2 sind natürlich die
+Die Verteilung der Stufen sieht folgendermaßen aus. In der Q2 sind natürlich die
 Benutzer, da ich selbst aus der Q2 bin. Interessant ist, dass es auch vereinzelnt
 Nutzer in der Unterstufe gibt. Muss durch Mundpropaganda passiert sein.
 
