@@ -60,7 +60,8 @@ Mit diesem Befehl kann man überprüfen, ob man die richtigen Kurse aboniert hat
 
 Der Bot bietet auch ein Freundesystem. Mit einem / gefolt von dem Nutzernamen des
 Freundes lässt sich eine Freundesanfrage verschicken. Nimmt dieser an, so lässt
-mit dem gleichen Befehl der Stundenplan und Vertretungsplan des Freundes ansehen.
+sich mit dem gleichen Befehl der Stundenplan und Vertretungsplan des Freundes 
+ansehen.
 
 ### /friends
 
