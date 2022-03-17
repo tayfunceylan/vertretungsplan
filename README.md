@@ -80,7 +80,9 @@ Sobald ein Artikel auf unserer Homepage hochgeladen wurde, haben alle Nutzer ein
 Nachricht erhalten mit Foto, Überschrift, die ersten Sätze des Artikels und einem
 Link zum Artikel.
 
-<img src="pictures/artikel.jpg" alt="Profil" width="300">
+<img src="pictures/artikel.jpg" alt="Profil" width="300"> <br>
+<a href="https://graf-engelbert-schule.de/2019/01/29/sparkasse-ehrt-broker/">
+Hier klicken um zum Artikel zu gelangen</a>
 
 ## Statistiken
 
